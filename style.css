@@ -1,0 +1,58 @@
+button{ 
+background-color: #0064E0 ;
+color: white ;
+width: 300px ;
+  height: 40px ;
+border: none;
+border-radius: 100px ;
+font-weight: bold;
+  }
+  h1{ text-align: center ;
+  color: blue; }
+  
+  .p1{ width: 300px ;
+  height: 35px ;
+  border-radius: 10px ;
+ border: 1px solid #E2E1E9;
+position: 10px;
+padding: 10px;
+outline-color: #0064E0;
+ color: silver; 
+    
+  }
+    .p2{ width: 300px ;
+  height: 35px ;
+  border: 1px solid #E2E1E9 ;
+  border-radius: 10px ;
+  padding:10px;
+  outline-color: #0064E0;
+ 
+  }
+  select{ border: none ;
+  background-color:#ECF5FE ;
+  margin: auto ;
+  display: block;
+ 
+
+   }
+.fa-facebook{ color: #0064E0;
+font-size: 80px ;
+ margin: 8px 136px;
+}
+div{  text-align: center ;
+margin-top: 40px ;
+}
+body{ background-color: #ECF5FE;
+ }
+p{ text-align: center;}
+
+.sayed{text-align: center ;
+margin-top: 160px ;
+border: 1px solid #0064E0 ;
+border-radius: 100px ;
+padding: 10px 5px ;
+color: #0064E0;}
+.fa-meta{  text-align: center;
+margin: auto ;
+display: block ;}
+.rakib{color: #6D7E89;
