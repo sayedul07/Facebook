@@ -1,3 +1,4 @@
+
 button{ 
 background-color: #0064E0 ;
 color: white ;
@@ -42,8 +43,10 @@ font-size: 80px ;
 div{  text-align: center ;
 margin-top: 40px ;
 }
-body{ background-color: #ECF5FE;
+body{ background-color: red;
  }
+ //#ECF5FE
+ 
 p{ text-align: center;}
 
 .sayed{text-align: center ;
